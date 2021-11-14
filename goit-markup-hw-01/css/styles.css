@@ -32,7 +32,7 @@ ul {
 .navigation-link {
   text-decoration: none;
   font-weight: 500;
-  font-size: 16px;
+  font-size: 14px;
   color: var(--primary-text-color);
 }
 
@@ -55,6 +55,8 @@ ul {
 }
 
 .button {
+  font-family: Roboto, serif;
+  font-weight: 700;
   background-color: var(--accent-color);
   border: inherit;
   border-radius: 2px;
@@ -70,6 +72,7 @@ ul {
 }
 
 .section-description {
+  font-weight: 400;
   color: var(--third-text-color);
 }
 
@@ -109,6 +112,7 @@ ul {
   color: rgba(255, 255, 255, 0.6);
   text-decoration: none;
   font-weight: 400;
+  font-size: 14px;
 }
 
 .link:hover,
